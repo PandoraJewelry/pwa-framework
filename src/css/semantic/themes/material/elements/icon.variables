@@ -1,0 +1,12 @@
+//@fontPath  : '../../themes/material/assets/fonts';
+@fontPath  : "https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.3/themes/default/assets/fonts/";
+
+@width: 1em;
+@height: 1em;
+
+@small: 13px;
+@medium: 16px;
+@large: 18px;
+@big : 20px;
+@huge: 28px;
+@massive: 32px;

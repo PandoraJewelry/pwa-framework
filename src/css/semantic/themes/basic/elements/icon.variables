@@ -1,0 +1,14 @@
+/*-------------------
+   Icon Variables
+--------------------*/
+
+//@fontPath  : "../../themes/basic/assets/fonts";
+@fontPath  : "https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.3/themes/default/assets/fonts/";
+
+
+@src:
+  url("@{fontPath}/@{fontName}.eot?#iefix") format('embedded-opentype'),
+  url("@{fontPath}/@{fontName}.woff") format('woff'),
+  url("@{fontPath}/@{fontName}.ttf") format('truetype'),
+  url("@{fontPath}/@{fontName}.svg#icons") format('svg')
+;

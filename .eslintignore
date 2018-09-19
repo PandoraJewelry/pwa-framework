@@ -1,0 +1,6 @@
+**/*.test.js
+jest.config.js
+jest.setup.js
+next.config.js
+server/index.js
+src/css

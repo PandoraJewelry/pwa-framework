@@ -1,0 +1,15 @@
+{
+    "extends": [
+        "airbnb",
+        "plugin:import/errors",
+        "plugin:import/warnings",
+        "plugin:jsx-control-statements/recommended"
+    ],
+    "parser": "babel-eslint",
+    "rules": {
+        "react/react-in-jsx-scope": 0,
+        "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+        "react/prefer-stateless-function": [1, { "ignorePureComponents": true }],
+        "no-underscore-dangle": ["error", { "allow": ["__REDUX_DEVTOOLS_EXTENSION__"] }]
+    }
+}

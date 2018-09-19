@@ -1,0 +1,8 @@
+@import (reference) '../../../_variables.less';
+
+/*******************************
+     User Global Variables
+*******************************/
+
+@pageBackground: @bg-color;
+@largeMonitorBreakpoint: 1440px;
