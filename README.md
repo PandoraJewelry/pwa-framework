@@ -1,5 +1,10 @@
 # Pandora Cloud PWA Framework
 
+**Getting Started**
+- This is a a node script, docker isn't required locally
+- Since it's Node you can use either npm or yarn, if installed
+- Run `npm install && npm run dev` after cloning this repo
+- This guide only provides code examples of how to build a React SPA/PWA
 
 
 **Javascript**
